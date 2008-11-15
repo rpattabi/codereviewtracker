@@ -1,0 +1,17 @@
+---
+# code review
+
+implementor : x
+
+reviewers   :
+   - reviewer1
+   - reviewer2
+   - etc
+
+duration     : 1.5 # hours
+
+comments     :
+   - minor, comment1
+   - major, comment2
+
+...
